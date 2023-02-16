@@ -23,11 +23,11 @@ To install and run this project, follow these steps:
 
 This project was built with the following technologies:
 
-Angular 12
-TypeScript
-HTML/CSS
-Bootstrap
-Firebase (for authentication and database storage)
+Angular 12, 
+TypeScript, 
+HTML/CSS, 
+Bootstrap, 
+Firebase (for authentication and database storage).
 
 ## Contributing
 
